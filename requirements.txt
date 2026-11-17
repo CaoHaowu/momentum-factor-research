@@ -2,4 +2,3 @@ numpy
 pandas==3.0.6
 scipy
 matplotlib
-yfinance
